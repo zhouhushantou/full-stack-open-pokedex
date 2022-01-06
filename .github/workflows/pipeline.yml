@@ -24,3 +24,4 @@ jobs:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_app_name: "hushantoupokemon"
           heroku_email: "xiangxianzhou@gmail.com"
+          healthcheck: "https://hushantoupokemon.herokuapp.com/health"
