@@ -25,3 +25,4 @@ jobs:
           heroku_app_name: "hushantoupokemon"
           heroku_email: "xiangxianzhou@gmail.com"
           healthcheck: "https://hushantoupokemon.herokuapp.com/health"
+          checkstring: "ok"
