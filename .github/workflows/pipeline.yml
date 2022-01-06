@@ -26,3 +26,4 @@ jobs:
           heroku_email: "xiangxianzhou@gmail.com"
           healthcheck: "https://hushantoupokemon.herokuapp.com/health"
           checkstring: "ok"
+          rollbackonhealthcheckfailed: true
